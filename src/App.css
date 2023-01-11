@@ -1,0 +1,40 @@
+@font-face {
+  font-family: sundrops;
+  src:url('/src/font/Sundrops.otf');
+}
+
+
+body {
+  background-color: #19e973;
+  background-image: linear-gradient(45deg, #19e973 0%, #c247d4 100%);
+  margin: 0;
+}
+
+.header {
+  background-color: #640A71;
+  width: 100%;
+  height: 200px;
+  top: 0;
+  position: absolute;
+}
+
+.header-h1 {
+  color: white;
+  font-size: 60px; 
+  text-align: center;
+  font-family: 'sundrops', cursive;
+  font-weight: 300;
+}
+
+/* BEGINNING OF BRANDS */
+
+.gts-brand {
+  height: 100px;
+}
+.brand-h1 {
+  text-align: center;
+  color: white;
+  font-family: 'sundrops', cursive;
+  font-weight: 300;
+  font-size: 100px;
+}

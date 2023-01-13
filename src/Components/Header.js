@@ -5,7 +5,7 @@ export default function Header() {
         <div className="header">
             {/* <img src="https://dl.glitter-graphics.com/pub/256/256843f65gkvdlzq.jpg" alt="mushroom" className="header-img" /> */}
             <h1 className="header-h1">
-                My Kombucha Rankings
+                My Kombucha Reviews
             </h1>
         </div>
     )

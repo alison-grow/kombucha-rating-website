@@ -28,7 +28,6 @@ body {
   text-align: center;
   font-family: 'sundrops', cursive;
   font-weight: 300;
-  padding: 10px;
 }
 
 /* BEGINNING OF BRANDS */
@@ -49,9 +48,9 @@ body {
   background-color:	#b34233;
 }
 
-.drink-img {
-  height: 200px;
-  width: 150px;
+.h1-img {
+  height: 50px;
+  width: 50px;
 }
 
 .body-data {

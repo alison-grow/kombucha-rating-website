@@ -1,0 +1,49 @@
+.container {
+    border-left: 2px solid #c65f06;
+    border-right: 2px solid #c65f06;
+    border-top: 2px solid #c65f06;
+}
+
+.tablecell-1 {
+    color: white;
+    font-family: 'little', cursive !important;
+    font-size: 20px !important;
+}
+
+.table-row {
+    border-bottom: 2px solid #c65f06;
+}
+.table-head-row {
+    background-color: #fa751a;
+    border-bottom: 2px solid #c65f06;
+}
+
+.table-row:nth-child(odd) {
+    background-color: #f6af7e;
+}
+
+.table-row:nth-child(even) > .tablecell-2 {
+    color:white;
+    font-family: 'little', cursive;
+    font-size: 18px;
+}
+
+.table-row:nth-child(odd) > .tablecell-2 {
+    color: #663300;
+    font-family: 'little', cursive;
+    font-size: 18px;
+}
+
+
+.table-row:nth-child(even) {
+    background-color: #fe842f;
+}
+
+
+.table-row:nth-child(even) .hearts {
+    color: white;
+}
+
+.table-row:nth-child(odd) .hearts {
+    color:	#a47c48;
+}

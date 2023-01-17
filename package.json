@@ -2,7 +2,7 @@
   "name": "kombucha-rating-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alison-grow.github.io/kombucha-rating-website.git",
+  "homepage": "https://alison-grow.github.io/kombucha-rating-website",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",

@@ -44,7 +44,7 @@ export default function OtherDrinks() {
             "brand": "Brew Dr.",
             "name": "Clear Mind",
             "profile": "spice, mint",
-            "comments": "Rosemary, mint, sage. Made with green tea instead of black. Very refreshing, I see why it's called Clear Mind. A go to Brew Dr. flavor!",
+            "comments": "Rosemary, mint, sage. Made with green tea instead of black. Very refreshing, tastes like a rainy spring day. A go to Brew Dr. flavor!",
             "repurchase": "Yes",
         },
     ];

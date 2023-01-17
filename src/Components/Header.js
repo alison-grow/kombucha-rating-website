@@ -7,6 +7,7 @@ export default function Header() {
                 &#9774;
                 My Kombucha Reviews
                 &#9774;
+                <p className="header-p">ratings and reviews of all the store-bought kombucha i've tried</p>
             </h1>
         </div>
     )

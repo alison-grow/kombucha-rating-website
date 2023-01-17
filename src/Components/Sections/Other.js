@@ -20,7 +20,7 @@ export default function OtherDrinks() {
             "brand": "Humm Zero Sugar",
             "name": "Blood Orange",
             "profile": "fruit",
-            "comments": "horrible...",
+            "comments": "Blood orange and grape juice. Sugar free, tastes terrible and fake. This cannot be real kombucha. Do Not Buy!!!",
             "repurchase": "No",
         },
         {
@@ -28,7 +28,7 @@ export default function OtherDrinks() {
             "brand": "Humm Zero Sugar",
             "name": "Ginger Lemonade",
             "profile": "spice, citrus",
-            "comments": "horrible....",
+            "comments": "Ginger, lemon, grape juice. Fake tasting. Horrible, not real kombucha. Avoid Humm Zero Sugar drinks!",
             "repurchase": "No",
         },
         {
@@ -36,7 +36,7 @@ export default function OtherDrinks() {
             "brand": "Brew Dr.",
             "name": "Watermelon",
             "profile": "fruit",
-            "comments": "very good...",
+            "comments": "Watermelon and guava. Watermelon is always a good flavor to me, and this one is a good one!",
             "repurchase": "Yes",
         },
         {
@@ -44,14 +44,15 @@ export default function OtherDrinks() {
             "brand": "Brew Dr.",
             "name": "Clear Mind",
             "profile": "spice, mint",
-            "comments": "not too bad",
+            "comments": "Rosemary, mint, sage. Made with green tea instead of black. Very refreshing, I see why it's called Clear Mind. A go to Brew Dr. flavor!",
             "repurchase": "Yes",
         },
     ];
     return (
         <div className="other-drinks">
             <h2 className="brand-h2">
-                Other Drinks
+                ~ Other Drinks ~
+                <p className="brand-p">all the other drinks i've tried!</p>
             </h2>
             <TableContainer className="container" component={Paper} sx={{ width: 1100, margin: 'auto'}}>
                     <Table sx={{ minWidth: 650 }} aria-label="simple table">

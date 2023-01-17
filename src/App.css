@@ -22,12 +22,18 @@ body {
   top: 0;
 }
 
+.header-p {
+  font-size: 25px;
+  font-family: 'little', cursive;
+}
+
 .header-h1 {
   color: white;
   font-size: 80px; 
   text-align: center;
   font-family: 'sundrops', cursive;
   font-weight: 300;
+  margin-top: 10px;
 }
 
 /* BEGINNING OF BRANDS */
@@ -40,12 +46,18 @@ body {
   text-align: center;
   color: white;
   font-family: 'sundrops', cursive;
-  height: 110px;
-  padding-top: 30px;
+  height: 125px;
+  padding-top: 20px;
   font-size: 70px;
   letter-spacing: 3px;
   font-weight: 300;
   background-color:	#b34233;
+}
+
+.brand-p {
+  font-size: 17px;
+  font-family: 'little', cursive;
+  margin-top: 4px;
 }
 
 .h1-img {

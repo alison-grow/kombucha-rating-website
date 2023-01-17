@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kombucha-rating-website.git/static/css/main.9be7ad29.css",
-    "main.js": "/kombucha-rating-website.git/static/js/main.e6071dc8.js",
-    "static/media/coolvetica rg it.otf": "/kombucha-rating-website.git/static/media/coolvetica rg it.733776c8d6437461f923.otf",
-    "static/media/Bunny Flowers-Regular.ttf": "/kombucha-rating-website.git/static/media/Bunny Flowers-Regular.244cdfe3c7e040dd97d6.ttf",
-    "index.html": "/kombucha-rating-website.git/index.html",
-    "main.9be7ad29.css.map": "/kombucha-rating-website.git/static/css/main.9be7ad29.css.map",
-    "main.e6071dc8.js.map": "/kombucha-rating-website.git/static/js/main.e6071dc8.js.map"
+    "main.css": "/kombucha-rating-website/static/css/main.939df4ea.css",
+    "main.js": "/kombucha-rating-website/static/js/main.aa0ddf08.js",
+    "static/media/coolvetica rg it.otf": "/kombucha-rating-website/static/media/coolvetica rg it.733776c8d6437461f923.otf",
+    "static/media/Bunny Flowers-Regular.ttf": "/kombucha-rating-website/static/media/Bunny Flowers-Regular.244cdfe3c7e040dd97d6.ttf",
+    "index.html": "/kombucha-rating-website/index.html",
+    "main.939df4ea.css.map": "/kombucha-rating-website/static/css/main.939df4ea.css.map",
+    "main.aa0ddf08.js.map": "/kombucha-rating-website/static/js/main.aa0ddf08.js.map"
   },
   "entrypoints": [
-    "static/css/main.9be7ad29.css",
-    "static/js/main.e6071dc8.js"
+    "static/css/main.939df4ea.css",
+    "static/js/main.aa0ddf08.js"
   ]
 }

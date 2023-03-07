@@ -183,6 +183,14 @@ export default function GtsDrinks() {
             "rating": "3.5",
             "repurchase": "Yes",
         },
+        {
+            "brand": "GT's Synergy",
+            "name": "Elderberry Juniper",
+            "profile": "fruit, spice",
+            "comments": "Elderberry and juniper. Very unique flavor, the elderberry is not too strong and the juniper pairs perfectly. Hard to find",
+            "rating": "4",
+            "repurchase": "Yes",
+        },
     ];
     return (
         <div className="gts-brand">
